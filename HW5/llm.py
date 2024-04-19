@@ -2,7 +2,7 @@ from openai import OpenAI
 import json
 
 client = OpenAI(
-    api_key='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',
+    api_key='API-KEY-HERE',
 )
 
 # chat_completion = client.chat.completions.create(
